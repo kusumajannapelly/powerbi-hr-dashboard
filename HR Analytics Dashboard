@@ -1,0 +1,36 @@
+# HR Analytics Dashboard (Power BI)
+
+## Overview
+An interactive Power BI dashboard that analyses HR data, covering salary 
+by country, department and year, and employee status by age.
+
+## Dataset
+- **File:** HR_SAMPLE_DATASET.xlsx (sheet: HR_Sample_Dataset)
+
+## Visuals
+| Visual | Shows |
+|---|---|
+| Bar chart | Country-wise Salary |
+| Pie / donut chart | Age-wise Status |
+| Column chart | Salary by Department |
+| Line chart | Year-wise Salary |
+
+## Slicers
+- Gender
+- Status
+- Country
+
+All visuals respond to the slicers, and the dashboard layout has no empty 
+white space.
+
+## Dashboard Preview
+![HR Dashboard](images/dashboard.png)
+
+## Key Insights
+- ____ had the highest total salary among countries.
+- ____ department had the highest salary.
+- Salary trend over the years: ____.
+- Age group with the most employees in a given status: ____.
+
+## Tools Used
+Power BI Desktop, Excel
