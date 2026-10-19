@@ -28,10 +28,10 @@ white space.
    ![HR Dashboard](images/Hrdashboard.png)
 
 ## Key Insights
-- ____ had the highest total salary among countries.
-- ____ department had the highest salary.
+- The dashboard covers 100 employees with a total salary of 12.1M and an average salary of 121.1K.
+- Marketing has the highest total salary by department (2.60M), followed by HR (2.47M) and IT (2.13M). Operations has the lowest (1.48M).
+- Among Indian cities, Mumbai has the highest total salary, followed by Chennai (2.21M) and Pune (2.15M). Delhi has the lowest (1.57M).
 - Salary trend over the years: ____.
-- Age group with the most employees in a given status: ____.
 
 ## Tools Used
 Power BI Desktop, Excel
