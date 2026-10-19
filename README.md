@@ -25,7 +25,7 @@ All visuals respond to the slicers, and the dashboard layout has no empty
 white space.
 
 ## Dashboard Preview
-![HR Dashboard](images/dashboard.png)
+   ![HR Dashboard](images/Hrdashboard.png)
 
 ## Key Insights
 - ____ had the highest total salary among countries.
